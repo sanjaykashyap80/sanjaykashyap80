@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with sharpen my web <b>development skills</b>
 - 💬 Ask me about web development, 
 
-<h2> find me around the web </h2>
+<h2> Find me around the web </h2>
 
-sharing updates on LnkedIn-<a href="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" >@LinkedIn</a>
+Sharing updates on LnkedIn-<a href="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" >@LinkedIn</a>
 Follow me on Twitter-<a href="https://twitter.com/SanjayKashyap80">@Twitter</a>
