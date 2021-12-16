@@ -2,7 +2,7 @@
 
 <img src="" width="800" height="360">
 
-I'm full stack Developer. Some Technologies I enjoy working with includes HTML5, CSS3, JavaScript etc. I recently launched my portfolio website- <a href="">Sanjay's portfolio</a> as project
+I'm full stack Developer. Some Technologies I enjoy working with includes HTML5, CSS3, JavaScript etc. I recently launched my portfolio website- <a href="https://previews.123rf.com/images/masterart/masterart1307/masterart130700020/21606827-a-word-cloud-of-web-development-related-items.jpg">Sanjay's portfolio</a> as project
 
 
 Here are some ideas to get you started:
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <h2> Find me around the web </h2>
 
-Sharing updates on LnkedIn-<a href="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" >@LinkedIn</a>
-Follow me on Twitter-<a href="https://twitter.com/SanjayKashyap80">@Twitter</a>
+- Sharing updates on LnkedIn-<a href="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" >@LinkedIn</a>
+- Follow me on Twitter-<a href="https://twitter.com/SanjayKashyap80">@Twitter</a>
