@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kashyap</h1>
-<h3 align="center">A Software Engineer from India</h3>
+<h3 align="center">Aspiring Full Stack Web Developer from India</h3>
 
 -   💻 I’m a full stack web developer.
 -   🌱 I love to code, build things & solve problems. <br/>
