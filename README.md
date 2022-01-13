@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjay-kashyap-1a677b208" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamthakur291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sanjaykashyap80" height="30" width="40" /></a>
+<a href="https://www.twitter.com/sanjaykashyap80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sanjaykashyap80" height="30" width="40" /></a>
 <!-- <a href="https://leetcode.com/shubhamthakur051/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhamthakur051/" height="30" width="40" /></a>
 </p> -->
 
