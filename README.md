@@ -5,7 +5,7 @@
 -   🌱 I love to code, build things & solve problems. <br/>
 -   ⚡ For fun, I like to play Badminton, traveling and exploring. <br/>
 -   💬 Ask me about **HTML, CSS, JavaScript, Node JS, Express, MongodB, React, DS & Algo**
--   🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://shubham-thakur.netlify.app/">here 🌐</a> <br/>
+-   🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://sanjay-kashyap-portfolio.netlify.app/">here 🌐</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
